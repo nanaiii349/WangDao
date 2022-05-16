@@ -1,13 +1,5 @@
-# AminaoOS
-操作系统中各种算法的实现
 
- AminaoOS
-    ├── Process_scheduling
-    │   ├── FCFS.c
-    │   ├── FCFS.exe
-    │   └── PCB.h
-    ├── README.md
-    └── Synchronous
+操作系统中各种算法的实现
 
 Synchronous中编写王道考研中同步问题的代码，请在linux环境下运行
 
